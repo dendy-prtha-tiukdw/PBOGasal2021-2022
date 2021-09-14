@@ -1,3 +1,5 @@
+package minggu1;
+
 public class Person {
     public String nama;
     public int umur;

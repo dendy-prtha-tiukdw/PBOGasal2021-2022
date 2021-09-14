@@ -1,3 +1,4 @@
+package minggu1;
 
 import java.math.*;
 import java.io.*;

@@ -1,3 +1,5 @@
+package minggu1;
+
 public class OperatorBitwise {
     public static void main(String[] args) {
         int a = 60;

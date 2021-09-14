@@ -1,3 +1,5 @@
+package minggu1;
+
 import java.util.Scanner;
 public class LampuLaluLintas {
     public static void main(String[] args){

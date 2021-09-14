@@ -1,3 +1,5 @@
+package minggu1;
+
 import java.util.Scanner;
 
 public class PerulanganWhile {
