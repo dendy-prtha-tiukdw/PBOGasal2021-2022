@@ -1,4 +1,4 @@
-package minggu1;
+package minggu1_2;
 
 public class Person {
     public String nama;

@@ -1,4 +1,4 @@
-package minggu2;
+package minggu3;
 
 //entryPoint excute
 public class EntryPoint {

@@ -1,4 +1,4 @@
-package minggu1;
+package minggu1_2;
 
 public class OperatorBitwise {
     public static void main(String[] args) {

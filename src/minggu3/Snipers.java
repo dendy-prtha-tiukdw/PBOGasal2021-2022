@@ -1,4 +1,4 @@
-package minggu2;
+package minggu3;
 
 public class Snipers {
     private int id;

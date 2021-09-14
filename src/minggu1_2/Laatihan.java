@@ -1,4 +1,4 @@
-package minggu1;
+package minggu1_2;
 //buatlah sebuah method yang dapat menampilkan
 // banyak  bilangan yg habis dibagi 3 dan 7
 

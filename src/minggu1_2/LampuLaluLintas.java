@@ -1,4 +1,4 @@
-package minggu1;
+package minggu1_2;
 
 import java.util.Scanner;
 public class LampuLaluLintas {

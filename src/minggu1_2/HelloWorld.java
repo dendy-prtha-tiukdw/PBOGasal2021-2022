@@ -1,7 +1,4 @@
-package minggu1;
-
-import java.math.*;
-import java.io.*;
+package minggu1_2;
 
 public class HelloWorld {
     public static void main(String[] args) {
