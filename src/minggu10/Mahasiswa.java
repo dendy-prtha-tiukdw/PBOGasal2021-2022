@@ -13,8 +13,8 @@ public class Mahasiswa {
 //    exception SKSTidakMemenuhi. Berikut ini output jika syarat SKS tidak terpenuhi:
     public Mahasiswa(String nama, String nim) {
         daftarMatakuliah = new LinkedHashSet<>();
-        this.nama = nama;
-        this.nim = nim;
+        this.setNama(nama);
+        this.setNim(nim);
     }
 
     public void showDaftarMataKuliah() {
@@ -36,5 +36,21 @@ public class Mahasiswa {
             totalSKS += tambahmatkul.getSks();
             daftarMatakuliah.add(tambahmatkul);
         }
+    }
+
+    public String getNama() {
+        return nama;
+    }
+
+    public void setNama(String nama) {
+        this.nama = nama;
+    }
+
+    public String getNim() {
+        return nim;
+    }
+
+    public void setNim(String nim) {
+        this.nim = nim;
     }
 }
